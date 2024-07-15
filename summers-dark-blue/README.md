@@ -2,9 +2,9 @@ summers-dark-blue
 
 # Summer's Dark Blue
 
-Supplier: **[???](https://www.???.???)**
+Supplier: **[Hugo Boss](https://www.hugoboss.com)**
 
-Item: [Shirt (Navy Blue)](https://www.hhv.de/shop/en/clothing/item/colorful-standard-organic-active-sock-navy-blue-914471)
+Item: [Regular-Fit Shirt In Easy-Iron Stretch-Cotton Poplin (Dark Blue)](https://www.hugoboss.com/regular-fit-shirt-in-easy-iron-stretch-cotton-poplin/hbeu50473265_404.html?cgid=213501)
 
 Images: 
 | -- |
