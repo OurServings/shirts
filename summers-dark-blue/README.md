@@ -8,8 +8,7 @@ Item: [Regular-Fit Shirt In Easy-Iron Stretch-Cotton Poplin (Dark Blue)](https:/
 
 Images: 
 | -- |
-| ![3-colorful-standard-organic-active-sock-navy-blue](https://github.com/OurServings/socks/assets/1499433/26de3476-c20b-435d-aa1a-21792ed1dace) |
-| ![2-colorful-standard-organic-active-sock-navy-blue](https://github.com/OurServings/socks/assets/1499433/2c29580e-2205-4e81-bfaf-a79fb244e638) |
+| ![regular-fit-shirt-in-easy-stretch-cotton-poplin](![hbeu50473265_404_100](https://github.com/user-attachments/assets/e41fc030-4d5d-4946-9ffc-c17ed89fc022)) |
 
 Item No: **?????**
 
