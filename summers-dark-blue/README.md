@@ -8,8 +8,8 @@ Item: [Navy Knitted Cutaway (Navy Blue)](https://profuomo.com/nl/navy-knitted-ov
 
 Images: 
 | -- |
-|  |
-| |
+| ![hbeu50473265_404_100](https://github.com/user-attachments/assets/46de40d2-2f7c-4cda-9ecc-09e9f667e0dd) |
+| ![PP2HC10014_100](https://github.com/user-attachments/assets/2ed0d0d7-1b71-4305-ba51-965da6ff2cb0) |
 
 Item No: **PP2HC10014**
 
